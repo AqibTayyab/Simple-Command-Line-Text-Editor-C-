@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742401546 source:c:\aqib\projects\projects c\text editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
